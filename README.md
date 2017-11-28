@@ -7,5 +7,5 @@ Docker Whale
 
 ### How to use it:
 
-1. `docker build -t docker-test`
+1. `docker build -t docker-test .`
 2. `docker run docker-test`
